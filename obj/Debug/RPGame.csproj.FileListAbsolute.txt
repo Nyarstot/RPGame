@@ -1,0 +1,30 @@
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\bin\Debug\RPGame.exe.config
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\bin\Debug\RPGame.exe
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\bin\Debug\RPGame.pdb
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\obj\Debug\RPGame.csprojResolveAssemblyReference.cache
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\obj\Debug\RPGame.MainForm.resources
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\obj\Debug\RPGame.csproj.GenerateResource.Cache
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\obj\Debug\RPGame.exe
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\obj\Debug\RPGame.pdb
+C:\Users\winte\source\repos\RPGame\bin\Debug\RPGame.exe.config
+C:\Users\winte\source\repos\RPGame\bin\Debug\RPGame.exe
+C:\Users\winte\source\repos\RPGame\bin\Debug\RPGame.pdb
+C:\Users\winte\source\repos\RPGame\obj\Debug\RPGame.csprojResolveAssemblyReference.cache
+C:\Users\winte\source\repos\RPGame\obj\Debug\RPGame.MainForm.resources
+C:\Users\winte\source\repos\RPGame\obj\Debug\RPGame.csproj.GenerateResource.Cache
+C:\Users\winte\source\repos\RPGame\obj\Debug\RPGame.csproj.CoreCompileInputs.cache
+C:\Users\winte\source\repos\RPGame\obj\Debug\RPGame.exe
+C:\Users\winte\source\repos\RPGame\obj\Debug\RPGame.pdb
+C:\Users\winte\source\repos\RPGame\obj\Debug\RPGame.Properties.Resources.resources
+C:\Users\курсы\Documents\SharpDevelop Projects\RPGame\obj\Debug\RPGame.Properties.Resources.resources
+C:\Users\winte\source\repos\RPGame\obj\Debug\RPGame.History.resources
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\bin\Debug\RPGame.exe.config
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\bin\Debug\RPGame.exe
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\bin\Debug\RPGame.pdb
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\obj\Debug\RPGame.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\obj\Debug\RPGame.History.resources
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\obj\Debug\RPGame.MainForm.resources
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\obj\Debug\RPGame.Properties.Resources.resources
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\obj\Debug\RPGame.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\obj\Debug\RPGame.exe
+C:\Users\Public\Documents\Shared Virtual Machines\RPGame\obj\Debug\RPGame.pdb
